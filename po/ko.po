@@ -29,7 +29,7 @@ msgstr ""
 #: .INTERVIEW_SPEECH_RECOGNITION[1].value
 msgctxt ".INTERVIEW_SPEECH_RECOGNITION[1].value"
 msgid "YES"
-msgstr ""
+msgstr "예"
 
 #: .INTERVIEW_SPEECH_RECOGNITION[2].key
 msgid "넵"
@@ -86,7 +86,7 @@ msgstr "저는 K-pop을 좋아하집니닺ㅇ"
 
 #: .V4_INTRO_PAGE.questionList[1].text2
 msgid "님은 어떤 장르의 음악을 좋아하세요?"
-msgstr ""
+msgstr "잘되는건요"
 
 #: .V4_INTRO_PAGE.questionList[2].text1
 msgid "저는 따뜻한 봄이 제일 좋아요."
